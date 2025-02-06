@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VS-NAVVIN/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/VS-NAVVIN/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VS-NAVVIN/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/VS-NAVVIN/Leetcode/tree/master/0035-search-insert-position) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/VS-NAVVIN/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/VS-NAVVIN/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/VS-NAVVIN/Leetcode/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/VS-NAVVIN/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
