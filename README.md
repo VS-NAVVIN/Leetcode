@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/VS-NAVVIN/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/VS-NAVVIN/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/VS-NAVVIN/Leetcode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/VS-NAVVIN/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/VS-NAVVIN/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/VS-NAVVIN/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/VS-NAVVIN/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
