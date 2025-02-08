@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/VS-NAVVIN/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/VS-NAVVIN/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VS-NAVVIN/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VS-NAVVIN/Leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VS-NAVVIN/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Math
 |  |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/VS-NAVVIN/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/VS-NAVVIN/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/VS-NAVVIN/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/VS-NAVVIN/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/VS-NAVVIN/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/1013-fibonacci-number) |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VS-NAVVIN/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
@@ -68,12 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/VS-NAVVIN/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/VS-NAVVIN/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/VS-NAVVIN/Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VS-NAVVIN/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/VS-NAVVIN/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/VS-NAVVIN/Leetcode/tree/master/0342-power-of-four) |
 ## Divide and Conquer
