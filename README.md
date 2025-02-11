@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VS-NAVVIN/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/VS-NAVVIN/Leetcode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VS-NAVVIN/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Recursion
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VS-NAVVIN/Leetcode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/VS-NAVVIN/Leetcode/tree/master/0125-valid-palindrome) |
 | [3447-clear-digits](https://github.com/VS-NAVVIN/Leetcode/tree/master/3447-clear-digits) |
 ## Stack
 |  |
