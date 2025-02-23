@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/VS-NAVVIN/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/VS-NAVVIN/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/VS-NAVVIN/Leetcode/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/VS-NAVVIN/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/VS-NAVVIN/Leetcode/tree/master/0326-power-of-three) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VS-NAVVIN/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/VS-NAVVIN/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/VS-NAVVIN/Leetcode/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [3447-clear-digits](https://github.com/VS-NAVVIN/Leetcode/tree/master/3447-clear-digits) |
 ## Stack
 |  |
