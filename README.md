@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/VS-NAVVIN/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/VS-NAVVIN/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/VS-NAVVIN/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Two Pointers
 |  |
