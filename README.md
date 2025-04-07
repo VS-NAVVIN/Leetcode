@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/VS-NAVVIN/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VS-NAVVIN/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0414-third-maximum-number) |
 | [0792-binary-search](https://github.com/VS-NAVVIN/Leetcode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VS-NAVVIN/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Hash Table
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VS-NAVVIN/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VS-NAVVIN/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0414-third-maximum-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VS-NAVVIN/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/VS-NAVVIN/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Binary Search
