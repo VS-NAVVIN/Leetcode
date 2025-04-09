@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/VS-NAVVIN/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/VS-NAVVIN/Leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/VS-NAVVIN/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VS-NAVVIN/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/VS-NAVVIN/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/VS-NAVVIN/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/VS-NAVVIN/Leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/VS-NAVVIN/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/VS-NAVVIN/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VS-NAVVIN/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -167,4 +169,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VS-NAVVIN/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/VS-NAVVIN/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
