@@ -6,7 +6,7 @@ class Solution:
         n2 = nums2.count(0)
         
         tot = max(sum1+n1, sum2+n2)
-        if sum1 != tot and not n1 or sum2 != tot and not n2:
+        if sum1 != tot and n1 == 0 or sum2 != tot and n2 == 0:
             return -1
         return tot
                  
