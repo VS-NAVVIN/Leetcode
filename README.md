@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/VS-NAVVIN/Leetcode/tree/master/0342-power-of-four) |
+| [2659-number-of-even-and-odd-bits](https://github.com/VS-NAVVIN/Leetcode/tree/master/2659-number-of-even-and-odd-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
