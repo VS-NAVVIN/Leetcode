@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/VS-NAVVIN/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/VS-NAVVIN/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3221-find-the-peaks](https://github.com/VS-NAVVIN/Leetcode/tree/master/3221-find-the-peaks) |
+| [3321-type-of-triangle](https://github.com/VS-NAVVIN/Leetcode/tree/master/3321-type-of-triangle) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/VS-NAVVIN/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/VS-NAVVIN/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/VS-NAVVIN/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/VS-NAVVIN/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3321-type-of-triangle](https://github.com/VS-NAVVIN/Leetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/VS-NAVVIN/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2215-finding-3-digit-even-numbers](https://github.com/VS-NAVVIN/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/VS-NAVVIN/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3321-type-of-triangle](https://github.com/VS-NAVVIN/Leetcode/tree/master/3321-type-of-triangle) |
 ## Binary Search
 |  |
 | ------- |
