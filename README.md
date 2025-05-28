@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/VS-NAVVIN/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/VS-NAVVIN/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VS-NAVVIN/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2128-reverse-prefix-of-word](https://github.com/VS-NAVVIN/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Recursion
 |  |
 | ------- |
@@ -118,12 +119,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/VS-NAVVIN/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/VS-NAVVIN/Leetcode/tree/master/0290-word-pattern) |
+| [2128-reverse-prefix-of-word](https://github.com/VS-NAVVIN/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [3447-clear-digits](https://github.com/VS-NAVVIN/Leetcode/tree/master/3447-clear-digits) |
 | [3636-check-balanced-string](https://github.com/VS-NAVVIN/Leetcode/tree/master/3636-check-balanced-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VS-NAVVIN/Leetcode/tree/master/0020-valid-parentheses) |
+| [2128-reverse-prefix-of-word](https://github.com/VS-NAVVIN/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [3447-clear-digits](https://github.com/VS-NAVVIN/Leetcode/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
