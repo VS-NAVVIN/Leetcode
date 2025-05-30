@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VS-NAVVIN/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/VS-NAVVIN/Leetcode/tree/master/0290-word-pattern) |
 | [1044-find-common-characters](https://github.com/VS-NAVVIN/Leetcode/tree/master/1044-find-common-characters) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/VS-NAVVIN/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2128-reverse-prefix-of-word](https://github.com/VS-NAVVIN/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VS-NAVVIN/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -215,12 +216,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/VS-NAVVIN/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/VS-NAVVIN/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/VS-NAVVIN/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VS-NAVVIN/Leetcode/tree/master/0169-majority-element) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/VS-NAVVIN/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Sliding Window
 |  |
