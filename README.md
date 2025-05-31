@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/VS-NAVVIN/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/VS-NAVVIN/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/VS-NAVVIN/Leetcode/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/VS-NAVVIN/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VS-NAVVIN/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2128-reverse-prefix-of-word](https://github.com/VS-NAVVIN/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VS-NAVVIN/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/VS-NAVVIN/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/VS-NAVVIN/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/VS-NAVVIN/Leetcode/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/VS-NAVVIN/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1044-find-common-characters](https://github.com/VS-NAVVIN/Leetcode/tree/master/1044-find-common-characters) |
 | [1205-defanging-an-ip-address](https://github.com/VS-NAVVIN/Leetcode/tree/master/1205-defanging-an-ip-address) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/VS-NAVVIN/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/VS-NAVVIN/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VS-NAVVIN/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/VS-NAVVIN/Leetcode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
