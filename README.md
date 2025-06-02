@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VS-NAVVIN/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/VS-NAVVIN/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2551-apply-operations-to-an-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/VS-NAVVIN/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3221-find-the-peaks](https://github.com/VS-NAVVIN/Leetcode/tree/master/3221-find-the-peaks) |
 | [3321-type-of-triangle](https://github.com/VS-NAVVIN/Leetcode/tree/master/3321-type-of-triangle) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/VS-NAVVIN/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VS-NAVVIN/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2128-reverse-prefix-of-word](https://github.com/VS-NAVVIN/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2551-apply-operations-to-an-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/VS-NAVVIN/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VS-NAVVIN/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2551-apply-operations-to-an-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/VS-NAVVIN/Leetcode/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
