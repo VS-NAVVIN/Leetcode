@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/VS-NAVVIN/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/VS-NAVVIN/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/VS-NAVVIN/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/VS-NAVVIN/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [3447-clear-digits](https://github.com/VS-NAVVIN/Leetcode/tree/master/3447-clear-digits) |
 | [3636-check-balanced-string](https://github.com/VS-NAVVIN/Leetcode/tree/master/3636-check-balanced-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/VS-NAVVIN/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VS-NAVVIN/Leetcode/tree/master/0169-majority-element) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/VS-NAVVIN/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/VS-NAVVIN/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
