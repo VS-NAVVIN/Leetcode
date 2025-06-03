@@ -1,16 +1,12 @@
 class Solution:
-    def climbStairs(self, n: int) -> int:
+    def climbStairs(self, n: int, memo = None) -> int:
+        if memo is None:
+            memo = {}
         if n <= 2:
             return n
-        v1 = 1
-        v2 = 2
-        current = 0
-
-        for i in range(3,n+1):
-            current = v1 + v2
-            v1, v2 = v2, current
-        return current
-            
+        if n not in memo:
+            memo[n] = self.climbStairs(n-1, memo) + self.climbStairs(n-2, memo)
+        return memo[n]         
 
 
         
