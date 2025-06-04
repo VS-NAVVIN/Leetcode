@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/VS-NAVVIN/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3447-clear-digits](https://github.com/VS-NAVVIN/Leetcode/tree/master/3447-clear-digits) |
 | [3636-check-balanced-string](https://github.com/VS-NAVVIN/Leetcode/tree/master/3636-check-balanced-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/VS-NAVVIN/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VS-NAVVIN/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VS-NAVVIN/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/VS-NAVVIN/Leetcode/tree/master/3447-clear-digits) |
+| [3811-reverse-degree-of-a-string](https://github.com/VS-NAVVIN/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## String Matching
 |  |
 | ------- |
