@@ -1,12 +1,9 @@
 class Solution:
     def sortPeople(self, names: List[str], heights: List[int]) -> List[str]:
-        res = []
-
-        for i in range(len(heights)):
-            maxi = max(heights)
-            idx = heights.index(maxi)
-            res.append(names[idx])
-            heights.pop(idx)
-            names.pop(idx)
-        return res
+        paired_data = zip(names, heights)
+        sorted_pairs = sorted(paired_data,key=lambda x: x[1], reverse=True)
+        sorted_names = [name for name, _ in sorted_pairs]
+        
+        return sorted_names
+        
         
