@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/VS-NAVVIN/Leetcode/tree/master/1044-find-common-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VS-NAVVIN/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/VS-NAVVIN/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2215-finding-3-digit-even-numbers](https://github.com/VS-NAVVIN/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2502-sort-the-people](https://github.com/VS-NAVVIN/Leetcode/tree/master/2502-sort-the-people) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/VS-NAVVIN/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VS-NAVVIN/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/VS-NAVVIN/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/VS-NAVVIN/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/VS-NAVVIN/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/VS-NAVVIN/Leetcode/tree/master/2502-sort-the-people) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VS-NAVVIN/Leetcode/tree/master/0169-majority-element) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/VS-NAVVIN/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/VS-NAVVIN/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VS-NAVVIN/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
