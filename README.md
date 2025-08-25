@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VS-NAVVIN/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/VS-NAVVIN/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3221-find-the-peaks](https://github.com/VS-NAVVIN/Leetcode/tree/master/3221-find-the-peaks) |
+| [3227-find-missing-and-repeated-values](https://github.com/VS-NAVVIN/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/VS-NAVVIN/Leetcode/tree/master/3321-type-of-triangle) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/VS-NAVVIN/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/VS-NAVVIN/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2215-finding-3-digit-even-numbers](https://github.com/VS-NAVVIN/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2502-sort-the-people](https://github.com/VS-NAVVIN/Leetcode/tree/master/2502-sort-the-people) |
+| [3227-find-missing-and-repeated-values](https://github.com/VS-NAVVIN/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/VS-NAVVIN/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/VS-NAVVIN/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/VS-NAVVIN/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/VS-NAVVIN/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2812-find-the-maximum-achievable-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3227-find-missing-and-repeated-values](https://github.com/VS-NAVVIN/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/VS-NAVVIN/Leetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/VS-NAVVIN/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/VS-NAVVIN/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [3227-find-missing-and-repeated-values](https://github.com/VS-NAVVIN/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Linked List
 |  |
 | ------- |
