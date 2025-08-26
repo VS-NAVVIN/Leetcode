@@ -1,9 +1,15 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        single = 0
+        freq = {}
         for num in nums:
-            single ^= num
-        return single
+            if num in freq:
+                freq[num] += 1
+            else:
+                freq[num] = 1
+        for num in freq:
+            if freq[num] == 1:
+                return num
+
 
 
 
