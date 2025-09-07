@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/VS-NAVVIN/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/VS-NAVVIN/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/VS-NAVVIN/Leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/VS-NAVVIN/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VS-NAVVIN/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VS-NAVVIN/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/VS-NAVVIN/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VS-NAVVIN/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/VS-NAVVIN/Leetcode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/VS-NAVVIN/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/VS-NAVVIN/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/VS-NAVVIN/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/VS-NAVVIN/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/VS-NAVVIN/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/VS-NAVVIN/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/VS-NAVVIN/Leetcode/tree/master/0079-word-search) |
 | [3227-find-missing-and-repeated-values](https://github.com/VS-NAVVIN/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Linked List
 |  |
@@ -385,4 +388,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/VS-NAVVIN/Leetcode/tree/master/0937-online-stock-span) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/VS-NAVVIN/Leetcode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/VS-NAVVIN/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
