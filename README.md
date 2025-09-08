@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VS-NAVVIN/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/VS-NAVVIN/Leetcode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/0948-sort-an-array) |
 | [1044-find-common-characters](https://github.com/VS-NAVVIN/Leetcode/tree/master/1044-find-common-characters) |
 | [1293-three-consecutive-odds](https://github.com/VS-NAVVIN/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/VS-NAVVIN/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/VS-NAVVIN/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/VS-NAVVIN/Leetcode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VS-NAVVIN/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VS-NAVVIN/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
