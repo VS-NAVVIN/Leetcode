@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/VS-NAVVIN/Leetcode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/VS-NAVVIN/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/VS-NAVVIN/Leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/VS-NAVVIN/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/VS-NAVVIN/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/VS-NAVVIN/Leetcode/tree/master/0242-valid-anagram) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VS-NAVVIN/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VS-NAVVIN/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/VS-NAVVIN/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/VS-NAVVIN/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/VS-NAVVIN/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/VS-NAVVIN/Leetcode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/1013-fibonacci-number) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/VS-NAVVIN/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/VS-NAVVIN/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/VS-NAVVIN/Leetcode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/VS-NAVVIN/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Depth-First Search
 |  |
 | ------- |
