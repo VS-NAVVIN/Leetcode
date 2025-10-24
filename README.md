@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/VS-NAVVIN/Leetcode/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2662-check-knight-tour-configuration](https://github.com/VS-NAVVIN/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VS-NAVVIN/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/VS-NAVVIN/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3221-find-the-peaks](https://github.com/VS-NAVVIN/Leetcode/tree/master/3221-find-the-peaks) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VS-NAVVIN/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2662-check-knight-tour-configuration](https://github.com/VS-NAVVIN/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [3447-clear-digits](https://github.com/VS-NAVVIN/Leetcode/tree/master/3447-clear-digits) |
 | [3811-reverse-degree-of-a-string](https://github.com/VS-NAVVIN/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## String Matching
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/VS-NAVVIN/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/VS-NAVVIN/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/VS-NAVVIN/Leetcode/tree/master/0079-word-search) |
+| [2662-check-knight-tour-configuration](https://github.com/VS-NAVVIN/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [3227-find-missing-and-repeated-values](https://github.com/VS-NAVVIN/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Linked List
 |  |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/VS-NAVVIN/Leetcode/tree/master/0079-word-search) |
+| [2662-check-knight-tour-configuration](https://github.com/VS-NAVVIN/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -469,4 +473,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/VS-NAVVIN/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2662-check-knight-tour-configuration](https://github.com/VS-NAVVIN/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
