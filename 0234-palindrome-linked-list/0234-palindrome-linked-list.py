@@ -11,4 +11,4 @@ class Solution:
         while current:
             arr.append(current.val)
             current = current.next
-        return True if arr[::] == arr[::-1] else False
+        return arr[::] == arr[::-1] 
