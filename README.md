@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/VS-NAVVIN/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VS-NAVVIN/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VS-NAVVIN/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/VS-NAVVIN/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/VS-NAVVIN/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0937-online-stock-span](https://github.com/VS-NAVVIN/Leetcode/tree/master/0937-online-stock-span) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/VS-NAVVIN/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -412,10 +413,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VS-NAVVIN/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/VS-NAVVIN/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VS-NAVVIN/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/VS-NAVVIN/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Trie
 |  |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/VS-NAVVIN/Leetcode/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/VS-NAVVIN/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2662-check-knight-tour-configuration](https://github.com/VS-NAVVIN/Leetcode/tree/master/2662-check-knight-tour-configuration) |
 ## Prefix Sum
 |  |
