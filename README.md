@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VS-NAVVIN/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VS-NAVVIN/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/VS-NAVVIN/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0792-binary-search](https://github.com/VS-NAVVIN/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/0948-sort-an-array) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/VS-NAVVIN/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VS-NAVVIN/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/VS-NAVVIN/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0948-sort-an-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/0948-sort-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/VS-NAVVIN/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2215-finding-3-digit-even-numbers](https://github.com/VS-NAVVIN/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/VS-NAVVIN/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/VS-NAVVIN/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/VS-NAVVIN/Leetcode/tree/master/0392-is-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/VS-NAVVIN/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1013-fibonacci-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/VS-NAVVIN/Leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VS-NAVVIN/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/VS-NAVVIN/Leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/VS-NAVVIN/Leetcode/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/VS-NAVVIN/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/VS-NAVVIN/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/VS-NAVVIN/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/VS-NAVVIN/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
