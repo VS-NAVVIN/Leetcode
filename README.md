@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/VS-NAVVIN/Leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/VS-NAVVIN/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1543-simplified-fractions](https://github.com/VS-NAVVIN/Leetcode/tree/master/1543-simplified-fractions) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/VS-NAVVIN/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/VS-NAVVIN/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/VS-NAVVIN/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/VS-NAVVIN/Leetcode/tree/master/1044-find-common-characters) |
 | [1205-defanging-an-ip-address](https://github.com/VS-NAVVIN/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/VS-NAVVIN/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1543-simplified-fractions](https://github.com/VS-NAVVIN/Leetcode/tree/master/1543-simplified-fractions) |
 | [1797-goal-parser-interpretation](https://github.com/VS-NAVVIN/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/VS-NAVVIN/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/VS-NAVVIN/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -516,4 +518,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/VS-NAVVIN/Leetcode/tree/master/0101-symmetric-tree) |
 | [0322-coin-change](https://github.com/VS-NAVVIN/Leetcode/tree/master/0322-coin-change) |
 | [2662-check-knight-tour-configuration](https://github.com/VS-NAVVIN/Leetcode/tree/master/2662-check-knight-tour-configuration) |
+## Number Theory
+|  |
+| ------- |
+| [1543-simplified-fractions](https://github.com/VS-NAVVIN/Leetcode/tree/master/1543-simplified-fractions) |
 <!---LeetCode Topics End-->
