@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/VS-NAVVIN/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/VS-NAVVIN/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/VS-NAVVIN/Leetcode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/VS-NAVVIN/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/VS-NAVVIN/Leetcode/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/VS-NAVVIN/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VS-NAVVIN/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/VS-NAVVIN/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/VS-NAVVIN/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/VS-NAVVIN/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/VS-NAVVIN/Leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/VS-NAVVIN/Leetcode/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/VS-NAVVIN/Leetcode/tree/master/0742-to-lower-case) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VS-NAVVIN/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/VS-NAVVIN/Leetcode/tree/master/0383-ransom-note) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/VS-NAVVIN/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/VS-NAVVIN/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
