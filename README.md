@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/VS-NAVVIN/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/VS-NAVVIN/Leetcode/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/VS-NAVVIN/Leetcode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VS-NAVVIN/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VS-NAVVIN/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VS-NAVVIN/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/VS-NAVVIN/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/VS-NAVVIN/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/VS-NAVVIN/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/VS-NAVVIN/Leetcode/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/VS-NAVVIN/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1013-fibonacci-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/VS-NAVVIN/Leetcode/tree/master/1086-divisor-game) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/VS-NAVVIN/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/VS-NAVVIN/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/VS-NAVVIN/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/VS-NAVVIN/Leetcode/tree/master/0494-target-sum) |
 ## Depth-First Search
 |  |
 | ------- |
