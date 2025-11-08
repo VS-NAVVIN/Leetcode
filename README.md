@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/VS-NAVVIN/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/VS-NAVVIN/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/VS-NAVVIN/Leetcode/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/VS-NAVVIN/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/VS-NAVVIN/Leetcode/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/VS-NAVVIN/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/VS-NAVVIN/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/VS-NAVVIN/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/VS-NAVVIN/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/VS-NAVVIN/Leetcode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/VS-NAVVIN/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/VS-NAVVIN/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/VS-NAVVIN/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1013-fibonacci-number](https://github.com/VS-NAVVIN/Leetcode/tree/master/1013-fibonacci-number) |
